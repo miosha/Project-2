@@ -8,7 +8,7 @@ import tweepy
 import twitter_info # still need this in the same directory, filled out
 
 ## Make sure to comment with:
-# Your name:
+# Your name: Miosha Page
 # The names of any people you worked with for this assignment:
 
 # ******** #
